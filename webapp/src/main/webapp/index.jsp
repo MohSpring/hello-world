@@ -1,1 +1,1 @@
-<h1> Hello, Welcome to Simple DevOps Project !!  new staff is going on </h1>
+<h1> Hello, the project is deployed AUTOMATICALLY ON THE ANSIBLE SERVER ... </h1>
