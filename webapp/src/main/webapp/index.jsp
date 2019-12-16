@@ -1,1 +1,1 @@
-<h1> Hello, the project is deployed AUTOMATICALLY ON THE ANSIBLE SERVER ... </h1>
+<h1> Hello, every thing is fine  ... </h1>
